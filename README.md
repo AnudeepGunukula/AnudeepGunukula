@@ -22,11 +22,10 @@
 <br>
 
 📈 my github stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="anudeepgunukula" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnudeepGunukula&layout=compact" alt="anudeepgunukula" /></p>
 <br/>
-
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="anudeepgunukula" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnudeepGunukula&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="anudeepgunukula" /></p>
 
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anudeepgunukula&" alt="anudeepgunukula" /></p>
