@@ -12,7 +12,7 @@
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anudeepgunukula&label=Profile%20views&color=0e75b6&style=flat" alt="anudeepgunukula" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anudeepgunukula&style=flat-square&label=Profile+Views&color=dc143c" alt="anudeepgunukula" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
