@@ -14,6 +14,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anudeepgunukula&label=Profile%20views&color=0e75b6&style=flat" alt="anudeepgunukula" /> </p>
 
+<img align="right" alt="GIF" src=""https://lh3.googleusercontent.com/-aT9vJTmiPVk/X9OD0PKtRbI/AAAAAAAAAoo/CoOzSONsJhMJN73MXc9NySP_SodvEVqmwCLcBGAsYHQ/h1200/programming.gif" width="500" height="320" />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
