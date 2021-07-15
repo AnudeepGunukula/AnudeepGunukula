@@ -36,7 +36,7 @@
 
 📊 **This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=AnudeepGunukula&hide_title=true&hide_border=true&langs_count=5)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AnudeepGunukula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 AnudeepGunukula/AnudeepGunukula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
