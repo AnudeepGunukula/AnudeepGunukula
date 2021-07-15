@@ -24,8 +24,8 @@
 <br/>
 
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anudeepgunukula&show_icons=true&locale=en" alt="anudeepgunukula" /></p>
-
+<!--><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anudeepgunukula&show_icons=true&locale=en" alt="anudeepgunukula" /></p><!-->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AnudeepGunukula)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anudeepgunukula&" alt="anudeepgunukula" /></p>
 
@@ -36,7 +36,7 @@
 
 📊 **This week I spent my time on**
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AnudeepGunukula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 AnudeepGunukula/AnudeepGunukula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
