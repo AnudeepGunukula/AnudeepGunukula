@@ -28,7 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnudeepGunukula&&show_icons=true&title_color=ffffff&icon_color=01ff0d&text_color=01e4ff&bg_color=151515" alt="anudeepgunukula" /></p>
 <br>
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AnudeepGunukula&custom_title=Week Time On"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AnudeepGunukula&custom_title=Week Time On&layout=compact&langs_count=6&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff"/>
 <p>
 
 <br>
@@ -42,6 +42,4 @@
 <!---
 AnudeepGunukula/AnudeepGunukula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-
-layout=compact&langs_count=6&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff
 --->
