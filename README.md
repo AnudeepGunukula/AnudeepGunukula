@@ -1,4 +1,4 @@
-- <h1 align="center">Hi 👋, I'm Anudeep Gunukula</h1>
+- <h1 align="center">Hi 👋 I'm Anudeep Gunukula</h1>
 - <h3 align="center">Software Developer with keen Interest in Machine Learning</h3>
 - 👀 I’m interested in Programming and Development
 - 🌱 I’m currently learning MachineLearning and ArtificialIntelligence
