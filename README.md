@@ -28,8 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnudeepGunukula&&show_icons=true&title_color=ffffff&icon_color=01ff0d&text_color=01e4ff&bg_color=151515" alt="anudeepgunukula" /></p>
 <br>
 <p>
-  <img src="https://github.com/<username>/<repository-name>/blob/master/images/codeStats.svg" alt="Alternative Text"/>
-  Example: <img src="https://github.com/tariksahni/tariksahni/blob/master/codeStats.svg" alt="My Coding Activity/>
+   <img src="https://github.com/anudeepgunukula/blob/master/codeStats.svg" alt="My Coding Activity/>
 <p>
 
 <br>
