@@ -28,7 +28,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnudeepGunukula&&show_icons=true&title_color=ffffff&icon_color=01ff0d&text_color=01e4ff&bg_color=151515" alt="anudeepgunukula" /></p>
 <br>
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AnudeepGunukula&custom_title=Week Time On&layout=compact&langs_count=6&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff"/>
+  <img src="https://github.com/<username>/<repository-name>/blob/master/images/codeStats.svg" alt="Alternative Text"/>
+  Example: <img src="https://github.com/tariksahni/tariksahni/blob/master/codeStats.svg" alt="My Coding Activity/>
 <p>
 
 <br>
