@@ -12,8 +12,6 @@
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anudeepgunukula&style=flat-square&label=Profile+Views&color=dc143c" alt="anudeepgunukula" /> </p>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
