@@ -71,18 +71,16 @@ Sunday                   114 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               32 mins             ███████████████░░░░░░░░░░   58.70 % 
-HTML                     19 mins             █████████░░░░░░░░░░░░░░░░   36.42 % 
-CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  54 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-cmp-databinding-start    54 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  54 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
@@ -102,7 +100,7 @@ C++                      4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AnudeepGunukula/AnudeepGunukula/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2023 18:32:02 UTC
+ Last Updated on 15/05/2023 18:31:56 UTC
 <!--END_SECTION:waka-->
 
 
