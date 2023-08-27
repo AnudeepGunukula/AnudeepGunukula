@@ -71,20 +71,16 @@ Sunday                   114 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   3 hrs 39 mins       █████████████████████████   98.82 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 42 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-dsa                      3 hrs 25 mins       ███████████████████████░░   92.45 % 
-Alchem                   16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 42 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -104,7 +100,7 @@ C++                      4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AnudeepGunukula/AnudeepGunukula/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2023 18:32:15 UTC
+ Last Updated on 27/08/2023 18:31:59 UTC
 <!--END_SECTION:waka-->
 
 
