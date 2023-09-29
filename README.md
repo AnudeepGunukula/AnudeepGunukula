@@ -34,15 +34,15 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 382.9 kB Used in GitHub's Storage 
+> 📦 384.6 kB Used in GitHub's Storage 
  > 
-> 🏆 38 Contributions in the Year 2023
+> 🏆 39 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 34 Public Repositories 
  > 
-> 🔑 17 Private Repositories 
+> 🔑 18 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -83,14 +83,14 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in JavaScript** 
 
 ```text
-Python                   7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-C#                       7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-Jupyter Notebook         6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-C++                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+JavaScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+Python                   7 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+C#                       7 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Jupyter Notebook         6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+C++                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
 ```
 
 
@@ -100,7 +100,7 @@ C++                      4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AnudeepGunukula/AnudeepGunukula/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2023 18:33:33 UTC
+ Last Updated on 29/09/2023 18:33:18 UTC
 <!--END_SECTION:waka-->
 
 
