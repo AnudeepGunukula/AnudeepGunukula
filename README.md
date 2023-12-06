@@ -28,8 +28,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-479%20hrs%2017%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -44,45 +42,6 @@
  > 
 > 🔑 16 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                117 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-🌆 Daytime                379 commits         ████████████░░░░░░░░░░░░░   48.16 % 
-🌃 Evening                273 commits         █████████░░░░░░░░░░░░░░░░   34.69 % 
-🌙 Night                  18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   126 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
-Tuesday                  112 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Wednesday                103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Thursday                 136 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-Friday                   106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-Saturday                 89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-Sunday                   115 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -100,7 +59,7 @@ C++                      4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AnudeepGunukula/AnudeepGunukula/main/assets/bar_graph.png)
 
 
- Last Updated on 05/12/2023 18:33:07 UTC
+ Last Updated on 06/12/2023 18:34:09 UTC
 <!--END_SECTION:waka-->
 
 
