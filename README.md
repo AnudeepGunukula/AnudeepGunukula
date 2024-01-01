@@ -36,7 +36,7 @@
 
 > 📦 384.9 kB Used in GitHub's Storage 
  > 
-> 🏆 42 Contributions in the Year 2023
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -100,7 +100,7 @@ C++                      4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AnudeepGunukula/AnudeepGunukula/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2023 18:32:03 UTC
+ Last Updated on 01/01/2024 18:32:50 UTC
 <!--END_SECTION:waka-->
 
 
