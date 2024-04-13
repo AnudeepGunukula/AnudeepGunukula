@@ -38,7 +38,7 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 38 Public Repositories 
+> 📜 39 Public Repositories 
  > 
 > 🔑 16 Private Repositories 
  > 
@@ -98,7 +98,7 @@ C++                      4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AnudeepGunukula/AnudeepGunukula/main/assets/bar_graph.png)
 
 
- Last Updated on 12/04/2024 18:31:44 UTC
+ Last Updated on 13/04/2024 18:31:54 UTC
 <!--END_SECTION:waka-->
 
 
