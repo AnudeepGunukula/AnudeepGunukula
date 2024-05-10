@@ -27,9 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnudeepGunukula&&show_icons=true&title_color=ffffff&icon_color=01ff0d&text_color=01e4ff&bg_color=151515" alt="anudeepgunukula" /></p>
 <br>
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-495%20hrs%207%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -78,10 +75,7 @@ JSON                     0 secs              ░░░░░░░░░░░�
 VS Code                  15 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Temp                     11 mins             ███████████████████░░░░░░   75.56 % 
-desitube                 3 mins              ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-
+Temp                     11 mins             ███████████████████░░░░░░   75.56 %
 💻 Operating System: 
 Linux                    15 mins             █████████████████████████   100.00 % 
 ```
